@@ -1,0 +1,8 @@
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\obj\Debug\ExportDataTable.csprojResolveAssemblyReference.cache
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\obj\Debug\ExportDataTable.MainForm.resources
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\obj\Debug\ExportDataTable.csproj.GenerateResource.Cache
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\bin\Debug\ExportDataTable.exe.config
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\bin\Debug\ExportDataTable.exe
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\bin\Debug\ExportDataTable.pdb
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\obj\Debug\ExportDataTable.exe
+D:\WorkSpace\20160913\ExportDataTable\ExportDataTable\obj\Debug\ExportDataTable.pdb
